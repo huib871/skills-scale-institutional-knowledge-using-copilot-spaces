@@ -1,6 +1,8 @@
 # OctoAcme Project Management Docs
 
-This directory contains OctoAcme’s project management guidance, covering work from initial validation through delivery, release, and continuous improvement. The approach is customer-focused and iterative: teams deliver small, testable increments, define measurable outcomes, and use evidence to adapt. Each project has clear Project Manager (PM) and Product Lead ownership, with stakeholders involved in alignment and decisions.
+This directory contains OctoAcme’s project management guidance, covering work from initial validation through delivery, release, and continuous improvement. Start here to understand the project lifecycle, select the guidance needed for a particular phase, and identify the roles, ceremonies, artifacts, and quality practices that support delivery.
+
+The approach is customer-focused and iterative: teams deliver small, testable increments, define measurable outcomes, and use evidence to adapt. Each project has clear Project Manager (PM) and Product Lead ownership, with stakeholders involved in alignment and decisions.
 
 The lifecycle begins with **initiation**, where the team confirms the business need, success measures, stakeholders, risks, resources, and whether to proceed. In **planning**, approved work is converted into a prioritized backlog with acceptance criteria, estimates, a Definition of Done, dependencies, milestones, and a release plan. During **execution**, progress is tracked on a project board and supported by standups, delivery syncs, demos, and stakeholder updates. Risks and blockers are monitored and escalated through defined paths. At **release**, teams verify readiness, communicate changes, and prepare deployment checks and rollback or mitigation plans. After a sprint, release, incident, or milestone, **retrospectives** turn lessons into owned, trackable improvement actions.
 
